@@ -13,15 +13,15 @@ It's important because it eliminates the most of the manual involment and increa
 
 - Reliability
 
->  Faster Development
+- Faster Development
 
-~ Greater scalability and availability.
+- Greater scalability and availability.
 
-Improved Collaboration
+- Improved Collaboration
 
-Security
+- Security
 
-Cost Reduction
+- Cost Reduction
 
 
 
