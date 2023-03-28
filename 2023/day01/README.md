@@ -1,5 +1,5 @@
 
-# what is DevOps
+# What is DevOps
 DevOps is a way of working that combines development and operations teams to improve software delivery. 
 
 
