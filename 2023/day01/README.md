@@ -9,13 +9,13 @@ It's important because it eliminates the most of the manual involment and increa
 
 # Benefits of DevOps
 
-(*) Rapid Delivery
+* Rapid Delivery
 
-(-) Reliability
+- Reliability
 
-Faster Development
+>  Faster Development
 
-Greater scalability and availability.
+~ Greater scalability and availability.
 
 Improved Collaboration
 
