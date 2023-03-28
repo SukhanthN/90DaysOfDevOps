@@ -9,9 +9,9 @@ It's important because it eliminates the most of the manual involment and increa
 
 # Benefits of DevOps
 
-Rapid Delivery
+(*) Rapid Delivery
 
-Reliability
+(-) Reliability
 
 Faster Development
 
@@ -22,5 +22,6 @@ Improved Collaboration
 Security
 
 Cost Reduction
+
 
 
