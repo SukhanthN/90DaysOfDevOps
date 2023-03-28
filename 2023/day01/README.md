@@ -4,6 +4,8 @@ DevOps is a way of working that combines development and operations teams to imp
 
 
 # Why DevOps is Important
+DevOps aims to shorten the development cycle and increase the frequency of deployments. Automate most of the manual involvement in the build and deployment process. which means that software can be delivered to customers faster.
+
 It's important because it eliminates the most of the manual involment and increases efficiency and helps teams deliver better software and faster.
 
 
