@@ -27,11 +27,9 @@ It's important because it eliminates the most of the manual involment and increa
 # DevOps Practices
 
 - Continuous Integration
-
 Continuous integration is a software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run.
 
 - Continuous Delivery
-
 Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production.
 
 - Microservices
